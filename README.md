@@ -1,6 +1,11 @@
-### Hi there 👋
+
+### Hi, I'm Derrick 👋
+
+I am a UX engineer with a passion for clean design & building solid quality products.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=decodesalot&theme=calm&hide_border=true)](https://git.io/streak-stats)
+
+
 
 <!--
 **decodesalot/decodesalot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
