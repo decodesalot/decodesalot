@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=decodesalot&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=decodesalot&theme=calm&hide_border=true)](https://git.io/streak-stats)
 
 <!--
 **decodesalot/decodesalot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
