@@ -5,7 +5,7 @@ I am a UX Engineer with a passion for clean design & building solid quality prod
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=decodesalot&theme=calm&hide_border=true)](https://git.io/streak-stats)
 
-### Favorite languages and tools
+### Favorite languages and frameworks
 
 ![React](https://img.shields.io/badge/ReactJS-61DAFB.svg?logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black)
