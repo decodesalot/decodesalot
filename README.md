@@ -15,6 +15,7 @@ I am a UX Engineer with a passion for clean design & building solid quality prod
 ![Css](https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white)
 ![Node](https://img.shields.io/badge/Node.js-339933.svg?logo=nodedotjs&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20.svg?logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white)
 
 
