@@ -3,7 +3,9 @@
 
 I am a UX Engineer with a passion for clean design & building solid quality products.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=decodesalot&theme=calm&hide_border=true)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=decodesalot&theme=calm&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=decodesalot&show_icons=true&theme=onedark&hide_border=true&custom_title=Stats&count_private=true&bg_color=383f50)
+
 
 ### Favorite languages and frameworks
 
