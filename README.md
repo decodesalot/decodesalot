@@ -1,8 +1,6 @@
 
 ### Hi, I'm Derrick 👋
 
-I am a UX Engineer with a passion for clean design & building solid quality products.
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=decodesalot&theme=calm&hide_border=true)
 ![Stats](https://github-readme-stats.vercel.app/api?username=decodesalot&show_icons=true&theme=onedark&hide_border=true&hide_title=true&count_private=true&bg_color=383f50)
 
