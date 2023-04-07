@@ -1,8 +1,8 @@
 
 ### Hi, I'm Derrick 👋
 
-![GitHub Streak](https://streak-stats.demolab.com?user=decodesalot&theme=calm&hide_border=true)
-![Stats](https://github-readme-stats.vercel.app/api?username=decodesalot&show_icons=true&theme=onedark&hide_border=true&hide_title=true&count_private=true&bg_color=383f50)
+<img src="https://streak-stats.demolab.com?user=decodesalot&theme=calm&hide_border=true" alt="GitHub Streak" style="width: 47%; display: inline-block;" />
+<img src="https://github-readme-stats.vercel.app/api?username=decodesalot&show_icons=true&theme=onedark&hide_border=true&hide_title=true&count_private=true&bg_color=383f50" alt="GitHub Stats" style="width: 52%; display: inline-block;" />
 
 
 ### Favorite languages and frameworks
@@ -14,8 +14,6 @@
 ![Sass](https://img.shields.io/badge/Sass-CC6699.svg?logo=sass&logoColor=white)
 ![Css](https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white)
 ![Node](https://img.shields.io/badge/Node.js-339933.svg?logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20.svg?logo=django&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white)
 
 
