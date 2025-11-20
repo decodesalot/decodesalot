@@ -1,5 +1,5 @@
 
-## 👋 Hi, I'm Derrick
+## Hello there, 👋
 
 I'm a Frontend Engineer who loves building interfaces that look great, feel smooth, and work reliably. Whether I'm creating new features or refining existing ones, I'm always exploring ways to make the web more enjoyable.
 
