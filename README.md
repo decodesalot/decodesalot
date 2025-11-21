@@ -17,23 +17,24 @@ Feel free to browse my projects and experiments. Something here might catch your
 ![Node](https://img.shields.io/badge/Node.js-339933.svg?logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white)
 
-
-
-<div align="left">
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=decodesalot&show_icons=true&count_private=true&theme=transparent&title_color=00bfff&icon_color=00bfff&text_color=ffffff&border_color=3d444d&hide_title=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=decodesalot&show_icons=true&count_private=true&theme=default&border_color=d1d9e0&hide_title=true">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=decodesalot&show_icons=true&count_private=true&theme=default&border_color=3d444d&hide_title=true" height="200px">
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=decodesalot&layout=compact&langs_count=8&theme=transparent&title_color=00bfff&text_color=ffffff&border_color=3d444d">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=decodesalot&layout=compact&langs_count=8&theme=default&border_color=d1d9e0">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=decodesalot&layout=compact&langs_count=8&theme=default&border_color=3d444d" height="200px">
-  </picture>
-
-</div>
+<table>
+  <tr>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=decodesalot&show_icons=true&count_private=true&theme=transparent&title_color=00bfff&icon_color=00bfff&text_color=ffffff&hide_title=true&hide_border=true">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=decodesalot&show_icons=true&count_private=true&theme=default&hide_title=true&hide_border=true">
+        <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=decodesalot&show_icons=true&count_private=true&theme=default&hide_title=true&hide_border=true" height="200">
+      </picture>
+    </td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=decodesalot&layout=compact&langs_count=8&theme=transparent&title_color=00bfff&text_color=ffffff&hide_border=true">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=decodesalot&layout=compact&langs_count=8&theme=default&hide_border=true">
+        <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=decodesalot&layout=compact&langs_count=8&theme=default&hide_border=true" height="200">
+      </picture>
+    </td>
+  </tr>
+</table>
 
 <!--
 **decodesalot/decodesalot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
