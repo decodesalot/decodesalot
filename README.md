@@ -16,3 +16,12 @@ Feel free to browse my projects and experiments. Something here might catch your
 ![Css](https://img.shields.io/badge/CSS-1572B6.svg?logo=css&logoColor=white&style=for-the-badge)
 ![Node](https://img.shields.io/badge/Node.js-339933.svg?logo=nodedotjs&logoColor=white&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white&style=for-the-badge)
+
+
+<div>
+  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=decodesalot&theme=material_palenight">
+  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=decodesalot&theme=material_palenight">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=decodesalot&theme=material_palenight">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=decodesalot&theme=material_palenight">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=decodesalot&theme=material_palenight&utcOffset=8">
+</div>
