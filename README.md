@@ -19,9 +19,14 @@ Feel free to browse my projects and experiments. Something here might catch your
 
 
 <div>
-  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=decodesalot&theme=material_palenight">
-  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=decodesalot&theme=material_palenight">
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=decodesalot&theme=material_palenight">
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=decodesalot&theme=material_palenight">
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=decodesalot&theme=material_palenight&utcOffset=8">
+  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=decodesalot&theme=nord_dark&border_color=212830" />
+
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=decodesalot&theme=nord_dark&border_color=212830" />
+
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=decodesalot&theme=nord_dark&border_color=212830" />
+
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=decodesalot&theme=nord_dark&border_color=212830" />
+
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=decodesalot&theme=nord_dark&utcOffset=-5&border_color=212830" />
+
 </div>
